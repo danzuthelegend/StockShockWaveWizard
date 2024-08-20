@@ -1,0 +1,12 @@
+
+streamlit
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+ta
+pmdarima
+seaborn
+yfinance
+statsmodels
