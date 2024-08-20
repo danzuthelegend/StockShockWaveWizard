@@ -8,7 +8,7 @@ Ever wonder where your favorite stocks might be heading in the next 10 days? Thi
   Open your terminal (or Windows Command Prompt).
   Navigate to the directory where you want to store the project.
   Run the following command to clone the repository:
-  **git clone https://github.com/ShahmeerSajid/StockShockWaveWizard.git**
+  **git clone https://github.com/DanyalValika/StockShockWaveWizard.git**
 
 - Navigate into the project directory:
   **cd Stock_Price_Predictor_ML_Model**
